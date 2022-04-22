@@ -1,0 +1,30 @@
+_repo: Mandalay-to-Momien-A-narrative-of-the-two-expeditions-to-western-China-of-1868-and-1875-under__67758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, John Alexander
+    alias: Anderson, J. A. (John Alexander)
+    birthdate: 1829
+    deathdate: 1917
+    gutenberg_agent_id: '46268'
+    url: http://www.gutenberg.org/2009/agents/46268
+description: ''
+gutenberg_issued: '2022-04-02'
+identifiers:
+  gutenberg: '67758'
+language: en
+pgterms:marc904: https://archive.org/details/b29351303/page/n5/mode/2up
+pgterms:marc905: 20201029142454anderson
+pgterms:marc906: '1876'
+pgterms:marc907: gb
+production_note: Brian Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Macmillan and co.,1876.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mandalay to Momien: A narrative of the two expeditions to western China of
+  1868 and 1875 under Colonel Edward B. Sladen and Colonel Horace Browne'
+url: http://www.gutenberg.org/ebooks/67758
